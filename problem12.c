@@ -23,10 +23,6 @@ int main(void) {
             }
         }
 
-        // if (num1%500 == 0) {
-        //     printf("%d, %d\n", num1, count);
-        // }
-
         if (count < 500) {
             count = 0;
         }
