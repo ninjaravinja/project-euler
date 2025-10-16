@@ -1,6 +1,6 @@
 triangle = []
 
-file = open("./0067_triangle.txt", "r")
+file = open("./files/0067_triangle.txt", "r")
 
 for line in file:
     triangle.append(line.split("\n")[0])

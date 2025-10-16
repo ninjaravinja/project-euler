@@ -1,4 +1,4 @@
-file = open("./0022_names.txt", "r")
+file = open("./files/0022_names.txt", "r")
 
 for line in file:
     line = line.replace("\"", "")
